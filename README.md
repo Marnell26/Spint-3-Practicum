@@ -1,1 +1,3 @@
-# Spint-3-Practicum
+# Работа с Git
+======
+## Что такое Git
